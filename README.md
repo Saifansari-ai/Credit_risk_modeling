@@ -85,4 +85,4 @@ The dataset contains a variety of structured files, each providing different asp
 
 If you found this project helpful, feel free to ⭐️ the repo and share it!
 
-### “Due to hardware limitations, the project uses only a subset of available datasets (i.e., application + bureau + bureau_balance). The focus is on building a lightweight, efficient model under constrained environments.”
+### “Due to hardware limitations, the project uses only a subset of available datasets (i.e., application_train.csv and application_test.csv). The focus is on building a lightweight, efficient model under constrained environments.”
